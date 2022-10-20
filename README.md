@@ -1,2 +1,10 @@
-# *Tennis player winner prediction*
-![image](https://photoresources.wtatennis.com/photo-resources/2019/08/15/dbb59626-9254-4426-915e-57397b6d6635/tennis-origins-e1444901660593.jpg?width=1200&height=630)
+# Tennis Player Winner Prediction
+
+## Problem Statement
+The goal of the project is to explore data from ATP tennis competitions in order to predict the results of tennis matches.
+
+## Data source
+Dataset is taken from Kaggle:https://www.kaggle.com/code/ahlemj/predict-atp-tennis/data
+
+The dataset contains results for the men's ATP matches played since 1968 and this dataset contains 14 features(after cleaning) that can be used to predict the results of tennis matches.
+
